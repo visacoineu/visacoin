@@ -1,1 +1,3 @@
-# visacoin
+# INTRODUCTION VISACOIN
+
+The cryptocurrency market with blockchain technology is increasingly demonstrating its potential and superiority. This will be the trend of modern civilization. Understanding that trend, we have built and developed the project Visacoin. Visacoin is built in accordance with the standards for cryptocurrencies with complex mining algorithms, operations on a blockchain platform to ensure maximum reliability and security for transactions. We look forward to a vibrant Visacoin community in the future. Visacoin will be used as a means of digital assets exchange through smart contracts, which helps reduce transaction fees and saves time, ensures high reliability.
